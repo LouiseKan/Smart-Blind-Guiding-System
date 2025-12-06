@@ -1,6 +1,7 @@
 # Smart-Blind-Guiding-System
 
-### 2025（114-1） 大學專題-智慧導盲系統 Edited by 甘 2025.12.7
+2025（114-1） 大學專題-智慧導盲系統 Edited by 甘 2025.12.7
+***
 
 ## 前置作業（串接模型的 api）
 1. 將 backend 資料夾獨立出來到 VS code 準備執行。
