@@ -1,0 +1,21 @@
+# Flutter specific ignores
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+**/*.iml
+
+# IDE specific ignores
+.idea/
+.vscode/
+
+# Python specific ignores (for app.py test folder)
+__pycache__/
+*.pyc
+venv/
+
+# Model Files (模型檔案)
+# 🚨 建議將大型模型檔案忽略，因為 GitHub 限制單檔大小 (100MB)。
+# 如果檔案不大，您可以選擇不忽略。
+best.pt
