@@ -1,15 +1,12 @@
-# test1015
+# Smart-Blind-Guiding-System
 
-A new Flutter project.
+2025(114-1) 大學專題-智慧導盲系統
 
-## Getting Started
+## Flutter 部分
 
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
